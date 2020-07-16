@@ -6,6 +6,8 @@ function App() {
     {id: 1, completed: false, title: 'Купить хлеб'},
     {id: 2, completed: false, title: 'Купить масло'},
     {id: 3, completed: false, title: 'Купить молоко'},
+    {id: 4, completed: false, title: 'Купить воду'},
+    {id: 5, completed: false, title: 'Купить конфет'},
   ]
 
   return (
