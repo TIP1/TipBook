@@ -1,0 +1,30 @@
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: .5rem;
+}
+
+input {
+    margin-right: 1rem;
+}
+
+.rm {
+    background: rgb(255, 62, 62);
+    border-radius: 50%;
+    color: #fff;
+    border: none
+}
+
+.rm:focus {
+    outline-style: none;
+    background: rgb(44, 211, 44);
+}
+
+.done {
+    text-decoration: line-through;
+
+}
